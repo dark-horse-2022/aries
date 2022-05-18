@@ -1,0 +1,3 @@
+[submodule "aries-gateway"]
+	path = aries-gateway
+	url = https://github.com/dark-horse-2022/aries-gateway
